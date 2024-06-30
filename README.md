@@ -1,2 +1,2 @@
 # mylocalworkspace
-all work I o on laptop personally for learning
+all work I do on my laptop for learning
